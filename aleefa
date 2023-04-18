@@ -115,6 +115,25 @@ else:
   
    #write a program to find the greatest of 3 numbers and return that 2 numbers are the same if 2 same numbers are given by the user,
    
-   
+   a=int(input("enter a value: ")
+b=int(input("enter b value: ")
+c=int(input("enter c value: ")
+if a==b:
+  if c>a:
+    print("largest:c")
+  else:
+    print("largest and equal numbers are:",a,b)
+elif b==c:
+ if a>b:
+    print("largest",a)
+ else:
+  print(print("largest and equal numbers are:",b,c)
+elif a==c:
+ if b>c:
+    print("largest",b)
+ else:
+  print(print("largest and equal numbers are:",a,c);
+else:
+  
 
 
