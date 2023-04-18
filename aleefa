@@ -134,6 +134,11 @@ elif a==c:
  else:
   print(print("largest and equal numbers are:",a,c);
 else:
-  
+ if a>b and a>c:
+  print("largest :",a);
+elif b>c:
+  print("largest :",b);
+else:
+  print("largest :",c);
 
 
